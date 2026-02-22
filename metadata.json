@@ -1,0 +1,7 @@
+{
+  "name": "JEEVAN",
+  "description": "A lifelong health tracking app focusing on 5-year cycles, comparing baseline doctor checkups with daily actuals using AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
